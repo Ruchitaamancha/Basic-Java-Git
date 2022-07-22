@@ -1,3 +1,4 @@
+// this is finding out factorial
 import java.util.Scanner;
 class factorial{
 	public static int factorials(int n){
